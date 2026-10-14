@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Nabila Tabassum"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Lecturer (CSE) at Northern University Bangladesh
+- name: B.Sc. in Computer Science and Engineering, BUET
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "your@email.com"
