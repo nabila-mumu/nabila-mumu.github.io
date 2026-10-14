@@ -8,40 +8,39 @@ positions:
   # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "nabilatabassummumu@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: your-linked-in-id
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: "https://github.com/nabila-mumu"
+# twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: "http://www.linkedin.com/in/nabila-tabassum-6b90063a8"
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
+  # <p>
+  #   A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  # </p>
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Hi. This is Nabila.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/nabila_tabassum_photo.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  My Photo 
+  # (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+# - name: Bangladesh University of Engineering and Technology
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: >- 
+#     Department of Computer Science  <br/>
+#     Ph.D. Student
+#   date: Sep. 2024 - present
+- name: Bangladesh University of Engineering and Technology
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.Sc. in Computer Science and Engineering
+  date: Jan. 2022 - Jun. 2026
 
 # experience:
 # - name: Peking University
